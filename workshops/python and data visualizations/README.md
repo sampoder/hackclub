@@ -84,6 +84,7 @@ plt.show()
 The code above names each of the bars (defines x and y lines), creates random values of Y using    ```random.randint()```, plots our points, and shows the graph!
 
 Example: 
+
 **![](https://lh6.googleusercontent.com/RWl3JKBqGZxuteF8vZtZQVri3TCxyRkKOG1zPygUGMQhNdJ3iBPqfIutg0oxXp-KpVUdKZUCYqMhT5i7yftGEasuvCuxWdac-RbAG5GK9zVXAGJ-EqrRnYaWzPxMafSjpBtdeTgZppc)**
 
 # Let's Make It A Little More Complicated!
